@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baothanh20091998
 - 👀 I’m interested in WEB DEVELOPER
-- 🌱 I’m currently learning HTML, CSS, JS , REACTJS, ANGULAR, NODEJS
+- 🌱 I’m currently learning HTML, CSS, JS, REACTJS, REACT NATIVE, NODEJS
 - 💞️ I’m trying to improve myself
 - 📫 How to reach me ...
 
